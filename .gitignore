@@ -1,0 +1,5 @@
+# Pipfile lock files
+*.lock
+
+# Numpy files
+*.npy
